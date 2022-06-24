@@ -1,0 +1,147 @@
+{
+	"info": {
+		"_postman_id": "f6c54c55-c90e-43b4-87bb-c3b58657b7d5",
+		"name": "Movimiento",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "15889193"
+	},
+	"item": [
+		{
+			"name": "Movimiento Lista",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44307/Movimientos",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44307",
+					"path": [
+						"Movimientos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Movimientos por Cuenta",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44307/Movimientos/Cuenta/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44307",
+					"path": [
+						"Movimientos",
+						"Cuenta",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Movimiento por Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44307/Movimientos/3",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44307",
+					"path": [
+						"Movimientos",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Movimiento Crear",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"cuentaId\": 1,\r\n  \"fecha\": \"2022-06-24T09:54:35.746Z\",\r\n  \"tipoMovimiento\": true,\r\n  \"valor\": 2000,\r\n  \"saldo\": 3200\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44307/Movimientos",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44307",
+					"path": [
+						"Movimientos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Movimiento Actualizar",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"cuentaId\": 1,\r\n  \"fecha\": \"2022-06-24T09:54:35.746Z\",\r\n  \"tipoMovimiento\": true,\r\n  \"valor\": 3000,\r\n  \"saldo\": 4200\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44307/Movimientos/6",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44307",
+					"path": [
+						"Movimientos",
+						"6"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Movimiento Eliminar",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44307/Movimientos/6",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44307",
+					"path": [
+						"Movimientos",
+						"6"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

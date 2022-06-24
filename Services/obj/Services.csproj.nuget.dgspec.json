@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Services\\Services.csproj": {}
+    "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Services\\Services.csproj": {}
   },
   "projects": {
-    "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\DataAccess\\DataAccess.csproj": {
+    "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\DataAccess\\DataAccess.csproj",
+        "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\DataAccess\\obj\\",
+        "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,8 +33,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Entitites\\Entities.csproj": {
-                "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Entitites\\Entities.csproj"
+              "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Entitites\\Entities.csproj": {
+                "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Entitites\\Entities.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Dto\\Dto.csproj": {
+    "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Dto\\Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Dto\\Dto.csproj",
+        "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Dto\\Dto.csproj",
         "projectName": "Dto",
-        "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Dto\\Dto.csproj",
+        "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Dto\\Dto.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Dto\\obj\\",
+        "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Entitites\\Entities.csproj": {
+    "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Entitites\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Entitites\\Entities.csproj",
+        "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Entitites\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Entitites\\Entities.csproj",
+        "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Entitites\\Entities.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Entitites\\obj\\",
+        "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Entitites\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -207,14 +207,14 @@
         }
       }
     },
-    "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Services\\Services.csproj": {
+    "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Services\\Services.csproj",
+        "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Services\\Services.csproj",
+        "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Services\\obj\\",
+        "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -236,11 +236,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\DataAccess\\DataAccess.csproj"
+              "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\DataAccess\\DataAccess.csproj"
               },
-              "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Dto\\Dto.csproj": {
-                "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Dto\\Dto.csproj"
+              "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Dto\\Dto.csproj": {
+                "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Dto\\Dto.csproj"
               }
             }
           }

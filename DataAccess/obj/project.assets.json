@@ -5823,11 +5823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\DataAccess\\DataAccess.csproj",
+      "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\DataAccess\\obj\\",
+      "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5849,8 +5849,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Entitites\\Entities.csproj": {
-              "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Entitites\\Entities.csproj"
+            "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Entitites\\Entities.csproj": {
+              "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Entitites\\Entities.csproj"
             }
           }
         }

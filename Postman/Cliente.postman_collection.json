@@ -1,0 +1,134 @@
+{
+	"info": {
+		"_postman_id": "ad9bd44d-1f58-4ff8-b2c7-fead337795dd",
+		"name": "Cliente",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "15889193"
+	},
+	"item": [
+		{
+			"name": "Cliente Lista",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"url": {
+					"raw": "https://localhost:44307/Clientes",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44307",
+					"path": [
+						"Clientes"
+					]
+				},
+				"description": "Clientes"
+			},
+			"response": []
+		},
+		{
+			"name": "Cliente por id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44307/Clientes/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44307",
+					"path": [
+						"Clientes",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cliente Crear",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"nombre\": \"Pepito\",\r\n  \"genero\": \"Masculino\",\r\n  \"edad\": 50,\r\n  \"identificacion\": \"11223344\",\r\n  \"direccion\": \"casa\",\r\n  \"telefono\": \"11223344\",\r\n  \"contraseña\": \"11223344\",\r\n  \"estado\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44307/Clientes",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44307",
+					"path": [
+						"Clientes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cliente Actualizar",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"nombre\": \"Pepito\",\r\n  \"genero\": \"Masculino\",\r\n  \"edad\": 48,\r\n  \"identificacion\": \"22334455\",\r\n  \"direccion\": \"casa\",\r\n  \"telefono\": \"22334455\",\r\n  \"contraseña\": \"22334455\",\r\n  \"estado\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44307/Clientes/4",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44307",
+					"path": [
+						"Clientes",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cliente Eliminar",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44307/Clientes/4",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44307",
+					"path": [
+						"Clientes",
+						"4"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

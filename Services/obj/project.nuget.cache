@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ox63Ix+yk3M5U5FEU9ob5lwwBFBVNME4kgWeqjWPoQmcYZidLZZfA19YvkGdQHDIrrqQkeWcIdpVZAPlpNsfyQ==",
+  "dgSpecHash": "yQaSLG4xIx4iKKZswH5HDDUF7D6snnbNMDSJoZpMEN5voEuHrDA/4i2rs9XnDWvBZ9znujNjT6GAWe2NpNKa6A==",
   "success": true,
-  "projectFilePath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Services\\Services.csproj",
+  "projectFilePath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

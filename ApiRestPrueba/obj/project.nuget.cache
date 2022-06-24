@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NOs9Pr0wyhmwsPav6iZ2DN7Qu9JSzhrrTdqj1yoFQW/huad0tnK+Le3rBgGPu37bdjRAD71pokkGLHDVq1CL5A==",
+  "dgSpecHash": "yjd3WzMvF+ztzE3TML7mFI/RlkH2c8Zj+mc6G5RnjlZBf5UvSDdEQmgy1EW3UuEN7qAQdKV/vl4I09ryudAJag==",
   "success": true,
-  "projectFilePath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\ApiRestPrueba\\ApiRestPrueba.csproj",
+  "projectFilePath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\ApiRestPrueba\\ApiRestPrueba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

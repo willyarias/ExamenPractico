@@ -118,11 +118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Entitites\\Entities.csproj",
+      "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Entitites\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Entitites\\Entities.csproj",
+      "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Entitites\\Entities.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Entitites\\obj\\",
+      "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Entitites\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

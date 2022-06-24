@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mPei+nfOgXRsznWgAm09ImQucoV25vWKpfuIYENTx7TrhrudV8+Sjt3UwxKpcjDicFhwhxkMkiIBicr9meuVwg==",
+  "dgSpecHash": "AitXnxPAqcqrUXoGeLJzUdhcJfpzbhliwO5tKCFWZr2KL/9m/AdGEP9wbYkHC/5lELwiXNsLBsW50o1vMavWJw==",
   "success": true,
-  "projectFilePath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -9,3 +9,15 @@ E:\NTTDATA\PichinchaEcuador\ExamenPractico\Entitites\obj\Debug\net5.0\Entities.c
 E:\NTTDATA\PichinchaEcuador\ExamenPractico\Entitites\obj\Debug\net5.0\Entities.dll
 E:\NTTDATA\PichinchaEcuador\ExamenPractico\Entitites\obj\Debug\net5.0\ref\Entities.dll
 E:\NTTDATA\PichinchaEcuador\ExamenPractico\Entitites\obj\Debug\net5.0\Entities.pdb
+E:\NTTDATA\PichinchaEcuador\Git\ExamenPractico\Entitites\bin\Debug\net5.0\Entities.deps.json
+E:\NTTDATA\PichinchaEcuador\Git\ExamenPractico\Entitites\bin\Debug\net5.0\Entities.dll
+E:\NTTDATA\PichinchaEcuador\Git\ExamenPractico\Entitites\bin\Debug\net5.0\ref\Entities.dll
+E:\NTTDATA\PichinchaEcuador\Git\ExamenPractico\Entitites\bin\Debug\net5.0\Entities.pdb
+E:\NTTDATA\PichinchaEcuador\Git\ExamenPractico\Entitites\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+E:\NTTDATA\PichinchaEcuador\Git\ExamenPractico\Entitites\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\NTTDATA\PichinchaEcuador\Git\ExamenPractico\Entitites\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+E:\NTTDATA\PichinchaEcuador\Git\ExamenPractico\Entitites\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+E:\NTTDATA\PichinchaEcuador\Git\ExamenPractico\Entitites\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+E:\NTTDATA\PichinchaEcuador\Git\ExamenPractico\Entitites\obj\Debug\net5.0\Entities.dll
+E:\NTTDATA\PichinchaEcuador\Git\ExamenPractico\Entitites\obj\Debug\net5.0\ref\Entities.dll
+E:\NTTDATA\PichinchaEcuador\Git\ExamenPractico\Entitites\obj\Debug\net5.0\Entities.pdb

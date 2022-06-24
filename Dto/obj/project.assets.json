@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Dto\\Dto.csproj",
+      "projectUniqueName": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Dto\\Dto.csproj",
       "projectName": "Dto",
-      "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Dto\\Dto.csproj",
+      "projectPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Dto\\Dto.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Dto\\obj\\",
+      "outputPath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

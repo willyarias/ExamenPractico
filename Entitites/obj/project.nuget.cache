@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zpN8VuRBEmWom63m8gIpbSi92un6HNAEMfc09HExvdNKSHURmYz3drlaV6r3A2LTTVMd8uyNHmKFRFyI2KDYxw==",
+  "dgSpecHash": "2rDZJuO1EU6YvbAyyM4ZI9uJa06BMtZSHs+xm98gc+0lF1EniVfjTjRa+0TuwWGhtZE7nDffPtE0Wj8aSm9n5A==",
   "success": true,
-  "projectFilePath": "E:\\NTTDATA\\PichinchaEcuador\\ExamenPractico\\Entitites\\Entities.csproj",
+  "projectFilePath": "E:\\NTTDATA\\PichinchaEcuador\\Git\\ExamenPractico\\Entitites\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
