@@ -1,0 +1,11 @@
+E:\NTTDATA\PichinchaEcuador\ExamenPractico\Dto\bin\Debug\net5.0\Dto.deps.json
+E:\NTTDATA\PichinchaEcuador\ExamenPractico\Dto\bin\Debug\net5.0\Dto.dll
+E:\NTTDATA\PichinchaEcuador\ExamenPractico\Dto\bin\Debug\net5.0\ref\Dto.dll
+E:\NTTDATA\PichinchaEcuador\ExamenPractico\Dto\bin\Debug\net5.0\Dto.pdb
+E:\NTTDATA\PichinchaEcuador\ExamenPractico\Dto\obj\Debug\net5.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\NTTDATA\PichinchaEcuador\ExamenPractico\Dto\obj\Debug\net5.0\Dto.AssemblyInfoInputs.cache
+E:\NTTDATA\PichinchaEcuador\ExamenPractico\Dto\obj\Debug\net5.0\Dto.AssemblyInfo.cs
+E:\NTTDATA\PichinchaEcuador\ExamenPractico\Dto\obj\Debug\net5.0\Dto.csproj.CoreCompileInputs.cache
+E:\NTTDATA\PichinchaEcuador\ExamenPractico\Dto\obj\Debug\net5.0\Dto.dll
+E:\NTTDATA\PichinchaEcuador\ExamenPractico\Dto\obj\Debug\net5.0\ref\Dto.dll
+E:\NTTDATA\PichinchaEcuador\ExamenPractico\Dto\obj\Debug\net5.0\Dto.pdb
